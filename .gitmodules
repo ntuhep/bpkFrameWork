@@ -1,0 +1,12 @@
+[submodule "bprimeKit"]
+	path = bprimeKit
+	url = https://github.com/ntuhep/bprimeKit.git
+[submodule "bpkUtility"]
+	path = bpkUtility
+	url = https://github.com/ntuhep/bpkUtility.git
+[submodule "bpkHitFit"]
+	path = bpkHitFit
+	url = https://github.com/ntuhep/bpkHitFit.git
+[submodule "bpkHitFitAnalysis"]
+	path = bpkHitFitAnalysis
+	url = https://github.com/ntuhep/bpkHitFitAnalysis.git
