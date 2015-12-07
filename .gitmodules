@@ -10,3 +10,6 @@
 [submodule "bpkHitFitAnalysis"]
 	path = bpkHitFitAnalysis
 	url = https://github.com/ntuhep/bpkHitFitAnalysis.git
+[submodule "ModifiedHitFit"]
+	path = ModifiedHitFit
+	url = ./ModifiedHitFit
