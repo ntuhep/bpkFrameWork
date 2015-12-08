@@ -12,4 +12,4 @@
 	url = https://github.com/ntuhep/bpkHitFitAnalysis.git
 [submodule "ModifiedHitFit"]
 	path = ModifiedHitFit
-	url = ./ModifiedHitFit
+	url = https://github.com/ntuhep/ModifiedHitFit.git
